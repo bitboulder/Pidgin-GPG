@@ -1,1 +1,17 @@
 *~
+Makefile.in
+Makefile
+.deps
+.libs
+*.la
+*.lo
+/aclocal.m4
+/autom4te.cache
+/config.h.in
+/config
+/config.h
+/config.log
+/config.status
+/configure
+/libtool
+/stamp-h1
