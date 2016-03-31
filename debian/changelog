@@ -1,0 +1,9 @@
+pidgin-gpg (0.9) unstable; urgency=low
+
+  * import from git
+
+ -- Frank Duckhorn <git@bitboulder.net>  Thu, 31 Mar 2016 18:43:32 +0200
+
+Local variables:
+mode: debian-changelog
+End:

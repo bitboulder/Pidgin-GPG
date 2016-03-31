@@ -1,0 +1,14 @@
+Source: pidgin-gpg
+Section: net
+Priority: optional
+Maintainer: Frank Duckhorn <git@bitboulder.net>
+Build-Depends: libpurple-dev, libgpgme11-dev
+Standards-Version: 0.9
+Vcs-Git: http://github.com/bitboulder/Pidgin-GPG.git
+Vcs-Browser: http://github.com/bitboulder/Pidgin-GPG
+
+Package: pidgin-gpg
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: GPG/OpenGPG plugin for pidgin
+
